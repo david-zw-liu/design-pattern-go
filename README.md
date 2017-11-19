@@ -3,7 +3,7 @@
 Learn design pattens from the book, [Design Patterns Explained Simply](https://sourcemaking.com/design_patterns) and rewrite its examples to golang.
 
 ## Creational patterns
-* [ ] Abstract Factory
+* [x] Abstract Factory
     > Creates an instance of several families of classes
 * [ ] Builder
     > Separates object construction from its representation
