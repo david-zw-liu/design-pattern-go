@@ -17,9 +17,9 @@ Learn design pattens from the book, [Design Patterns Explained Simply](https://s
     > A class of which only a single instance can exist
 
 ## Structural patterns
-* [ ] Adapter
+* [x] Adapter
     > Match interfaces of different classes
-* [ ] Bridge
+* [x] Bridge
     > Separates an object's interface from its implementation
 * [ ] Composite
     > A tree structure of simple and composite objects
