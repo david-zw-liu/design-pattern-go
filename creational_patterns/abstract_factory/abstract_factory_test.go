@@ -1,4 +1,4 @@
-package abstract_factory_example_1
+package abstract_factory
 
 import (
 	"testing"
