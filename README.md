@@ -5,7 +5,7 @@ Learn design pattens from the book, [Design Patterns Explained Simply](https://s
 ## Creational patterns
 * [x] Abstract Factory
     > Creates an instance of several families of classes
-* [ ] Builder
+* [X] Builder
     > Separates object construction from its representation
 * [ ] Factory Method
     > Creates an instance of several derived classes
