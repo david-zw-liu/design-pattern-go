@@ -9,7 +9,7 @@ Learn design pattens from the book, [Design Patterns Explained Simply](https://s
     > Separates object construction from its representation
 * [x] Factory Method
     > Creates an instance of several derived classes
-* [ ] Object Pool
+* [x] Object Pool
     > Avoid expensive acquisition and release of resources by recycling objects that are no longer in use
 * [ ] Prototype
     > A fully initialized instance to be copied or cloned
