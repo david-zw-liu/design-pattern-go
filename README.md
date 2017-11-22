@@ -5,9 +5,9 @@ Learn design pattens from the book, [Design Patterns Explained Simply](https://s
 ## Creational patterns
 * [x] Abstract Factory
     > Creates an instance of several families of classes
-* [X] Builder
+* [x] Builder
     > Separates object construction from its representation
-* [ ] Factory Method
+* [x] Factory Method
     > Creates an instance of several derived classes
 * [ ] Object Pool
     > Avoid expensive acquisition and release of resources by recycling objects that are no longer in use
