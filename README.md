@@ -13,7 +13,7 @@ Learn design pattens from the book, [Design Patterns Explained Simply](https://s
     > Avoid expensive acquisition and release of resources by recycling objects that are no longer in use
 * [x] Prototype
     > A fully initialized instance to be copied or cloned
-* [ ] Singleton
+* [x] Singleton
     > A class of which only a single instance can exist
 
 ## Structural patterns
