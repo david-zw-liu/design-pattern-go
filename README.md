@@ -11,7 +11,7 @@ Learn design pattens from the book, [Design Patterns Explained Simply](https://s
     > Creates an instance of several derived classes
 * [x] Object Pool
     > Avoid expensive acquisition and release of resources by recycling objects that are no longer in use
-* [ ] Prototype
+* [x] Prototype
     > A fully initialized instance to be copied or cloned
 * [ ] Singleton
     > A class of which only a single instance can exist
